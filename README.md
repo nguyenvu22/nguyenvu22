@@ -1,10 +1,13 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋
 
 **nguyenvu22/nguyenvu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<h1 align="center">Hi 👋, I'm Minh Tien</h1>
+Here are some ideas to get you started: -->
+
+### Hi there 👋
+
+
+<h1 align="center">👋 Hi, NguynnVu is here :gun:</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
@@ -13,6 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack.**
 
+### Hi there 👋
 
 ## 📫 How to reach me:
 
@@ -63,7 +67,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://c.tenor.com/lTtlX5xlfmgAAAAC/nyan-cat.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
