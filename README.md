@@ -1,67 +1,71 @@
-<!-- ### Hi there 👋
+![Carousel](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
-**nguyenvu22/nguyenvu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-### Hi there 👋
-
+</br>
+</br>
 
 <h1 align="center">👋 :smiley::sparkles: Hi, NguynnVu is here :dizzy::relaxed:</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p> -->
+<h3 align="center">A passionate web developer</h3>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+</br>
 
-- 🌱 I’m currently learning **MERN Stack.**
+<!-- <img align="right" alt="Coding" width="200" src="https://i.gifer.com/6N3o.gif"> -->
 
-## 📫 How to reach me:
+- ❔ About me : I'm an intern web developer and I do enjoy learning languages and frameworks like React. I also enjoy UI, UX and design in general. My desire is to be a fullstack developer. Currently, I want to be a java master for the first step of my career. Let's see what I can do :sparkling_heart::exclamation::exclamation:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- ✍ I'm a student of : [FPT University](https://hcmuni.fpt.edu.vn/).
 
+- 🌱 Career : **INTERN.**
+
+</br>
+</br>
+
+## Languages and Tools:
+
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+![Js](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![Html](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![Css](https://img.icons8.com/color/48/000000/css3.png)
+![Sql](https://img.icons8.com/color/48/000000/sql.png)
+![MySql](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![MySql](https://img.icons8.com/color/48/000000/sass.png)
+
+
+<!-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> -->
+<!-- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> -->
+<!-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> -->
+<!-- <img src="https://img.icons8.com/color/48/000000/css3.png"/> -->
+<!-- <img src="https://img.icons8.com/color/48/000000/sql.png"/> -->
+<!-- <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> -->
+<!-- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> -->
+<!-- <img src="https://img.icons8.com/color/48/000000/sass.png"/> -->
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenvu22&show_icons=true&locale=en&layout=compact" alt="nguyenvu22" />
+    </td>
+    <td>
+
+![](https://github-readme-stats.vercel.app/api?username=nguyenvu22)
+</td>
+
+  </tr>
+</table>
+
+## 📫 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
 
-## Skills:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/people/Nguy%C3%AAn-V%C5%A9/100007468685879/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/definitely.not.vu/)
+[![Github](https://img.icons8.com/color/48/000000/github--v1.png)](https://github.com/nguyenvu22)
+
 </p>
 
 <table style="width:100%;">
   <tr>
     <td>
-      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -70,36 +74,3 @@ Here are some ideas to get you started: -->
     </td>
   </tr>
 </table>
-
-# Certificates:
-
-<p align="center">
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
-    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
-  </a>
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
-    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG">
-    <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Coursera%20XFNU3UXCK5DG.png" width="300px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ">
-    <img alt="Python Data Structures" title="Python Data Structures" src="certificates/Coursera%20PQMJRCLM7BCQ.png" width="200px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/Coursera%20V7MK7JDL96DU.png" width="200px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP">
-    <img alt="Capstone: Retrieving, Processing, and Visualizing Data with Python" title="Capstone: Retrieving, Processing, and Visualizing Data with Python" src="certificates/Coursera%20DVXXD98ESKLP.png" width="200px" />
-  </a>
-</p>
-
