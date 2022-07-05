@@ -63,14 +63,6 @@
 
 </p>
 
-<table style="width:100%;">
-  <tr>
-    <td>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://c.tenor.com/lTtlX5xlfmgAAAAC/nyan-cat.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+![](https://c.tenor.com/lTtlX5xlfmgAAAAC/nyan-cat.gif)
+
+
