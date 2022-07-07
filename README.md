@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<h1 align="center">👋 :smiley::sparkles: Hi, NguynnVu is here :dizzy::relaxed:</h1>
+<h1 align="center">:smiley::sparkles: Hi, NguynnVu is here :dizzy::relaxed:</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate web developer</h3>
 
@@ -11,11 +11,11 @@
 
 <!-- <img align="right" alt="Coding" width="200" src="https://i.gifer.com/6N3o.gif"> -->
 
-- ❔ About me : I'm an intern web developer and I do enjoy learning languages and frameworks like React. I also enjoy UI, UX and design in general. My desire is to be a fullstack developer. Currently, I want to be a java master for the first step of my career. Let's see what I can do :sparkling_heart::exclamation::exclamation:
+- ❔ **About me :** I'm an intern web developer and I do enjoy learning languages and frameworks like React. I also enjoy UI, UX and design in general. My desire is to be a fullstack developer. Currently, I want to be a java master for the first step of my career. Let's see what I can do :sparkling_heart::exclamation::exclamation:
 
-- ✍ I'm a student of : [FPT University](https://hcmuni.fpt.edu.vn/).
+- ✍ **I'm a student of :** [FPT University](https://hcmuni.fpt.edu.vn/).
 
-- 🌱 Career : **INTERN.**
+- 🌱 **Career :** __INTERN.__
 
 </br>
 </br>
